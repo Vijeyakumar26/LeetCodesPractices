@@ -6,7 +6,7 @@ import java.util.List;
 public class GreatestNumberofCandies {
 
 	public static void main(String[] args) {
-		int[] arr = {4,2,1,1,2};
+		int[] arr = {4,2,1,1,3};
 		GreatestNumberofCandies candies = new GreatestNumberofCandies();
 		System.out.println(candies.kidsWithCandies(arr, 1));
 	}

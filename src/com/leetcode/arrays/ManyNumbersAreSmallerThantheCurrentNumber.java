@@ -3,7 +3,7 @@ package com.leetcode.arrays;
 public class ManyNumbersAreSmallerThantheCurrentNumber {
 
 	public static void main(String[] args) {
-		int nums[] = {8,1,2,2,3};
+		int nums[] = {8,4,2,2,3};
 		for(int small :  smallerNumbersThanCurrent(nums)) {
 			System.out.print(small + " ");
 		}

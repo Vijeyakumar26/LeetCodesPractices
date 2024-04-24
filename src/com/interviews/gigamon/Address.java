@@ -1,4 +1,4 @@
-package com.gigamon;
+package com.interviews.gigamon;
 
 public class Address {
 	private int dno;

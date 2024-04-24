@@ -1,4 +1,4 @@
-package com.survey;
+package com.interviews.survey;
 
 public class Test {
 

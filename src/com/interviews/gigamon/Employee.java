@@ -1,4 +1,4 @@
-package com.gigamon;
+package com.interviews.gigamon;
 
 import java.util.HashSet;
 import java.util.Set;

@@ -1,4 +1,4 @@
-package com.survey;
+package com.interviews.survey;
 class Solution {
     public String maxValue(String str, int x) {
         

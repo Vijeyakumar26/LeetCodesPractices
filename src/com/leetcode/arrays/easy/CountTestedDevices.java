@@ -6,7 +6,7 @@ public class CountTestedDevices {
 		int[] batteryPercentages = {1,2};
 		System.out.println(countTestedDevices(batteryPercentages));
 	}
-	
+	//counttestdevices
 	public static int countTestedDevices(int[] batteryPercentages) {
         int testedDevices = 0;
         int n = batteryPercentages.length;
